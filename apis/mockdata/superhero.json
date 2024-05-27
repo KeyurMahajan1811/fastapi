@@ -1,0 +1,30 @@
+{
+    "superheroes": [
+      {
+        "name": "Quantum Quasar",
+        "realName": "Dr. Victor Stellar",
+        "powers": ["Quantum energy manipulation", "Phasing", "Light bursts"]
+      },
+      {
+        "name": "Sonic Serpent",
+        "realName": "Maya Viper",
+        "powers": ["Sonic scream", "Agility", "Venomous bite"]
+      },
+      {
+        "name": "Nebula Nova",
+        "realName": "Zara Starfire",
+        "powers": ["Cosmic energy control", "Flight", "Telepathy"]
+      },
+      {
+        "name": "Blaze Bolt",
+        "realName": "Jake Inferno",
+        "powers": ["Pyrokinesis", "Super-speed", "Fire-resistant skin"]
+      },
+      {
+        "name": "Frostbite",
+        "realName": "Dr. Crystal Frost",
+        "powers": ["Cryokinesis", "Ice constructs", "Cold immunity"]
+      }
+    ]
+  }
+  
